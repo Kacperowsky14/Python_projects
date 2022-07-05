@@ -1,3 +1,3 @@
 # Python_projects
 
-I have placed my python projects in this repository.
+While learning python, I got to know many different libraries and slightly less obvious solutions. I tried to include all this in projects in this repository.
